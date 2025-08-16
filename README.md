@@ -1,12 +1,21 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This Project was created using Vite. 
 
-Currently, two official plugins are available:
+# Description
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+It is an user management tool. 
+It's responsible for creating, getting and deleting users. 
 
-## Expanding the ESLint configuration
+# Next steps
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1 - Use components to render everything better
+2 - Implement delete messages to the user
+3 - Use navigation between pages with react router dom 
+4 - Get the style better with CSS Modules or TailWind CSS 
+5 - Set a global state management 
+6 - Install react query and start to use the useQuery 
+7 - Create a Login screen with authentication 
+8 - Get a better performance with React.memo, useCallback and useMemo 
+9 - Create tests with Jest and React Testing Library 
+
